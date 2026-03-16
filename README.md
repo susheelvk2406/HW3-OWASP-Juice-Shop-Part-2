@@ -42,11 +42,11 @@ juice-shop-login-demo/
 ```
 ## How to Run
 1. Clone the repository:
-git clone https://github.com/susheelvk2406/HW3-OWASP-Juice-Shop-Part-2
-cd HW3-OWASP-Juice-Shop-Part-2
+- git clone https://github.com/susheelvk2406/HW3-OWASP-Juice-Shop-Part-2
+- cd HW3-OWASP-Juice-Shop-Part-2
 2. Install dependencies:
-npm install
+- npm install
 3. Start the server:
-npm start
+- npm start
 4. Open in browser:
-http://localhost:3000
+- http://localhost:3000
